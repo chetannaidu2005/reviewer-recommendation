@@ -1,0 +1,7 @@
+streamlit>=1.37
+sentence-transformers>=3.0
+torch>=2.2
+numpy>=1.26
+pandas>=2.0
+pymupdf>=1.23
+scikit-learn>=1.4
